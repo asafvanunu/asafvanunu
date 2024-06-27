@@ -1,4 +1,7 @@
 ## Hi there 👋
+My name is Asaf and I am a PhD student at Ben Gurion University
+My main fields of interest are remote sensing and GIS
+I'm working on GEO satellite fire detection
 
 <!--
 **asafvanunu/asafvanunu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
